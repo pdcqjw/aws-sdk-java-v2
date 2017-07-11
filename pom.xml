@@ -531,6 +531,7 @@
                                         <include>**/*IntegTest.java</include>
                                         <include>**/RunCucumberTest.java</include>
                                     </includes>
+                                    <trimStackTrace>false</trimStackTrace>
                                 </configuration>
                             </execution>
                         </executions>
